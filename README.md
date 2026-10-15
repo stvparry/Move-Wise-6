@@ -1,9 +1,6 @@
-# MoveWise 6.0 Clean Build
-Create a new empty GitHub repository and upload `streamlit_app.py`, `requirements.txt`, and `README.md` to the repository root. Deploy `streamlit_app.py` in Streamlit Community Cloud.
+# MoveWise 7 Evidence Edition
+Fresh repository build. Upload `streamlit_app.py`, `requirements.txt` and this README to the repository root, then deploy `streamlit_app.py`.
 
-Verification markers:
-- App banner: `MoveWise 6.0 Clean Build`
-- Report filename: `movewise_6_clean_illustrated_report.html`
-- Report cover: `PERSONALISED LOCATION-SELECTION BRIEFING`
+The optional listings CSV requires `area` and `price`; optional fields are `property_type`, `bedrooms`, and `url`. MoveWise does not scrape property portals.
 
-No old `services.py` or previous-version files are needed.
+Report filename: `movewise_7_next_chapter_report.html`.
